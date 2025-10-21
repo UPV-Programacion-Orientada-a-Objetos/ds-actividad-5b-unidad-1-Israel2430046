@@ -131,7 +131,7 @@ public:
             }
             std::cout << "||\n";
             for (int k = 0; k < this->_columnas; ++k)
-                std::cout << "========";;
+                std::cout << "=======";;
             std::cout << "\n";
         }
     }
